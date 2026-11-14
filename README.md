@@ -51,5 +51,6 @@
 ---
 
 ### 📬 Connect With Me
+- **LinkedIn**: [linkedin.com/in/parth-khare-3a9624343](https://www.linkedin.com/in/parth-khare-3a9624343/)
 - **GitHub**: [@Khare69](https://github.com/Khare69)
 - **Email**: `parthkh289@gmail.com`
