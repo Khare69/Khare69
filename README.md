@@ -47,9 +47,6 @@
     <img src="https://streak-stats.demolab.com?user=Khare69&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
   </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khare69&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="90%" />
-</p>
 
 ---
 
