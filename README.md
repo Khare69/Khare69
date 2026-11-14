@@ -36,6 +36,8 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#8](https://github.com/Archita-29/LOCAL-POLICY-IMPACT-ANALYZER/pull/8) in [Archita-29/LOCAL-POLICY-IMPACT-ANALYZER](https://github.com/Archita-29/LOCAL-POLICY-IMPACT-ANALYZER)
+2. 💪 Opened PR [#8](https://github.com/Archita-29/LOCAL-POLICY-IMPACT-ANALYZER/pull/8) in [Archita-29/LOCAL-POLICY-IMPACT-ANALYZER](https://github.com/Archita-29/LOCAL-POLICY-IMPACT-ANALYZER)
 <!--END_SECTION:activity-->
 
 ---
