@@ -36,8 +36,8 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Archita-29/LOCAL-POLICY-IMPACT-ANALYZER/pull/8) in [Archita-29/LOCAL-POLICY-IMPACT-ANALYZER](https://github.com/Archita-29/LOCAL-POLICY-IMPACT-ANALYZER)
-2. 💪 Opened PR [#8](https://github.com/Archita-29/LOCAL-POLICY-IMPACT-ANALYZER/pull/8) in [Archita-29/LOCAL-POLICY-IMPACT-ANALYZER](https://github.com/Archita-29/LOCAL-POLICY-IMPACT-ANALYZER)
+1. ❌ Closed PR [#21](https://github.com/Khare69/RFM-Cluster360/pull/21) in [Khare69/RFM-Cluster360](https://github.com/Khare69/RFM-Cluster360)
+2. ❌ Closed PR [#20](https://github.com/Khare69/RFM-Cluster360/pull/20) in [Khare69/RFM-Cluster360](https://github.com/Khare69/RFM-Cluster360)
 <!--END_SECTION:activity-->
 
 ---
